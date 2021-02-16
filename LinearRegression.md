@@ -7,3 +7,4 @@ One variable is considered to be an explanatory variable, and the other is consi
 * y = mx + c <br>
   * m = slope <br>
   * c = intercept
+---
