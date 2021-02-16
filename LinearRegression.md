@@ -7,4 +7,4 @@ One variable is considered to be an explanatory variable, and the other is consi
 y = mx + c 
 m = slope
 c = intercept
-
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
