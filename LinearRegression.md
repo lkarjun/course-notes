@@ -15,3 +15,4 @@ Model that assumes a `Linear Relationship` between the input independent  variab
 ## Cost Function
 * Cost function = 1/2m summarion of 1 to m (Y-Yi) ^ 2
 * We need to minimize the error cost function to find the best fit line.
+---
