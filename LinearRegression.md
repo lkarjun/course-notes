@@ -1,4 +1,4 @@
-# Linear Regression
+# <h1> <u> Linear Regression </u> </h1>
 Linear regression is a linear model.
 ## Assumtion
 Model that assumes a linear relationship between the input variables (x) and the single output variable (y). <br />
