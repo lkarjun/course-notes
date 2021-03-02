@@ -1,5 +1,7 @@
 # Lasso Regression
 
+> Least abs shrinkage
+
 * Lasso Regression just not overcoming the overfitting senario but also helps to do feature selection.
 
 * ```Least squares + lambda * | slope |```
